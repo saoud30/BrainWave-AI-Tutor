@@ -1,0 +1,9 @@
+streamlit
+requests
+Pillow
+python-dotenv
+wolframalpha
+plotly
+groq
+pandas
+matplotlib
