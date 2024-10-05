@@ -7,3 +7,5 @@ plotly
 groq
 pandas
 matplotlib
+textblob
+nltk
